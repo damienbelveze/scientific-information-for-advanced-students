@@ -1,0 +1,154 @@
+===Contexte===
+
+Durée : 2 heures
+Public : Master 1 Biologie
+Support : https://prezi.com/6iwyrvmaqga1/?utm_campaign=share&utm_medium=copy&rc=ex0share 
+Méthode : court magistral avec deux activités en ligne pour animer l'amphi (logiciel propriétaire Klaxoon, accessible aux abonnés)    
+    
+===Objectifs===
+    1. Faire la différence entre éthique et intégrité scientifique
+    2. Connaître les principales catégories de fraudes et de falsifications dans le champ de la discipline
+    3. Reconnaître les situations de plagiat
+    4. Savoir comment l'Université s'organise contre le plagiat
+    5. Apprendre à citer correctement
+    
+===Plan===
+
+*1. Ethique et intégrité scientifique, de quoi parle t-on ? 
+*2. Les catégories de manquements à l'intégrité scientifique : fabrication, falsification, plagiat (FFP)
+*3. le plagiat sous toutes ses formes (est-ce une citation, est-ce un plagiat ?)
+*4. Apprendre à citer correctement
+
+=====Ethique et intégrité scientifique=====
+        
+Avertissement : le plagiat est une chose à traiter en TD (cours de rédaction scientifique ou académique). En amphi, on ne va pas en parler pendant deux heures de manière théorique, d'où l'élargissement à l'ensemble de l'intégrité scientifique.
+
+==**Obj. 1** Capsule filmée d'un exposé de Denise Remy dans la semaine 1 du MOOC Ethique scientifique %%==
+Extrait tronqué de quelques secondes : introduire le contexte
+Faire passer après la vidéo, l'activité Klaxoon 1 sur le bien-être animal
+
+
+==**Obj. 2** Quizz sur Klaxoon==
+Question 1: quelles sont les valeurs implicites de l'étude ?
+Question 2 : quelle est la conception implicite du bien-être animal ici (tri entre 5 propositions)
+* proposition 1 : l'animal peut devenir très productif
+* proposition 2 : l'animal peut s'adapter à l'environnement qu'on lui propose
+* proposition 3 : l'animal peut exprimer les caractéristiques de son espèce
+* proposition 4 : On mesure la santé de l'animal régulièrement pour déterminer ce qui pour l'animal est positif et écarter de lui les expériences négatives
+* proposition 5 : on laisse l'animal choisir l'environnement qui lui convient le mieux
+
+Réponse : l'étude reprend à son compte de façon implicite les conceptions 1 et 2 du bien-être animal. Les conséquences du productivisme (piquage, éviscération des poules) sont discutées dans l'étude mais pas du tout le productivisme lui-même qui est accepté en tant que tel.
+
+Noter que l'intégrité scientifique de cet article est parfaitement respectée : les auteurs n'ont pas plagié, les données sont correctes, les travaux antérieurs sont correctement cités, etc. Mais du point de vue de l'éthique de la recherche, cet article soulève nombre de questions que les auteurs n'ont pas pris la peine de traiter ni d'évoquer. Cet exemple permet de faire une différence entre éthique et intégrité scientifique.
+
+==**Obj. 3** L'étude dupliquée==
+Source : Retractation Watch : https://retractionwatch.com/2019/03/12/when-a-paper-duplicates-one-in-another-language-how-can-editors-spot-it/
+La duplication d'une publication est un problème important, voisin de l'autoplagiat. Ici l'erreur consiste à ne pas avoir averti le deuxième éditeur que l'article avait déjà été publié dans une autre langue (chinois) et bien sûr à ne pas avoir averti non plus le lecteur.
+Cette duplication dans deux langues étrangères de la même étude est de nature à mettre en défaut les logiciels de détection de similitude (voir obj.13). Le fait même de faire paraître deux fois la même étude dans deux langues différentes n'est pas condamnable, c'est même recommandable (https://blogs.lse.ac.uk/impactofsocialsciences/2019/02/27/self-plagiarism-when-is-re-purposing-text-ethically-justifiable/) pour des questions d'accès à l'information scientifique et technique, mais il faut évidemment le signaler aux éditeurs, aux autres contributeurs et au lectorat.
+
+=====Fabrication, Falsification, Plagiat=====
+
+FFP: <Research misconduct is defined as fabrication, falsification or plagiarism in proposing, performing or reviewing research, or in reporting research results> (OSTP, 6 décembre 2000)
+
+==**Obj. 4**== 
+Fang cité par Nicolas Chevassus-au-Louis dans Malscience (2016 http://www.sudoc.fr/195438752 )
+L'étude ne va que jusqu'en 2012. Elle montre l'augmentation graduelle des fraudes _détectées_ mais témoigne que le plagiat n'est pas le problème principal (bien que le concept de fraude puisse concerner plusieurs méconduites différentes à l'exception de la duplication et du plagiat)
+
+==**Obj.5**==
+Pour compléter l'étude de Fang, j'ai réalisé une extraction des 600 articles recensés dans Retractation Watch dans le domaine de la biologie cellulaire entre 2012 et mars 2019. La base de données du site ne propose pas de modalité d'export, mais en sauvegardant le code source du tableau en html et en l'ouvrant dans un tableur on peut arriver à faire des traitements. Avec un wordle, on obtient ce nuage de mots. Le plagiat semble sous-représenté par rapport au tableau mais n'est assurément pas le motif principal de rétractation. Le terme author qui revient le plus souvent concerne toutes les méconduites qui ont trait à l'auteur (problématique très vaste, ce qui selon les définitions du site RW peut consister en : manque de concertation entre auteurs (publication sans l'accord des co-auteurs), autorité forgée de toutes pièces (ghost authors, ou personnes mentionnées comme auteurs par complaisance, manque de réaction des auteurs suite à des examens post-publication (unresponsive authors), objections apportées par des co-auteurs, manquement à l'éthique d'un ou plusieurs auteurs (sans précision : _ethical violations by authors_). Noter aussi la pregnance des problèmes liés au peer-reviewing (révision biaisée ou absente -comme dans le cas des éditeurs prédateurs- de la publication)
+D'après les raisons invoquées sur le site pour la rétractation de ces articles, 60 sur 600 ont été retirés pour raison de "plagiat d'article"(plagiarism of article), 170 pour raison de "plagiat d'image" (plagiarism of image) ou "plagiat de données"(plagiarism of data), soit en tout **une proportion de 28% des articles retirés pour des raisons de plagiat**.
+
+==**Obj. 6**==
+
+Le cuisinage de données est une figure traditionnelle de la falsification scientifique sur laquelle Nicolas Chevassus-au-Louis revient au début de son ouvrage. Il consiste à ne retenir que les données qui concordent avec l'hypothèse avancée pour arriver à un résultat statistiquement significatif (typiquement une valeur p inférieure à 0,05)
+Cela consisterait par exemple à poser comme hypothèse que lorsqu'on tire beaucoup les dés on obtient à 70% des lancers pairs et d'exclure des résultats de l'expérience une part importante des résultats impairs obtenus. 
+Derrière cet exemple des dés, on peut rappeler un point de méthode (plutôt que d'intégrité) : l'échantillonnage doit lui aussi être significatif. Le hasard pourrait prouver l'hypothèse (plus de lancer pairs) sur un faible nombre de lancers mais pas sur un grand nombre de lancers. L'exemple des dés est inspiré de celui du pile ou face dont se sert Nathan Collins dans son article "des publications sous pression" paru en septembre 2016 dans Pacific Standard. Cette étude montre aussi la pression qui s'exerce sur les chercheurs de produire sans arrêt des études contre-intuitives au péril de l'intégrité scientifique (on s'attend à ce qu'il y ait autant de lancers pairs qu'impairs au final). On peut à ce sujet parler du peu de cas que les éditeurs et par contrecoup les chercheurs font découvertes qui confirment nos intuitions ainsi que des _negative data_ (mis à part le _Journal of negative data_ mais qui a peine à publier deux numéros par an)
+
+==**Obj. 7**==
+
+Le cas de Haruko Obokata (https://en.wikipedia.org/wiki/Haruko_Obokata)
+Etude parue dans Nature en 2014 puis rétractée (comme quoi, cela arrive même aux journaux les plus prestigieux !)
+Cas de fabrication de données. 
+Le soupçon vient du fait que l'expérience sur les cellules-souche soi-disant utilisées par la chercheuse n'était pas reproductible. 
+Cet exemple permet d'avancer la notion de reproductibilité de l'expérience. A noter que le manque de reproductibilité des expériences n'est pas forcément due à des manquements à l'intégrité scientifique : importance des carnets de laboratoires bien documentés qui utilisent des logiciels ouverts et interopérables pour éviter les erreurs (Les Jupyter notebooks utilisent le logiciel libre Rstudio)
+
+Cet exemple sert aussi à montrer les dégats collatéraux des fraudes : 
+* le directeur de recherche se suicide (voir aussi le chapitre 11 de l'ouvrage Malscience intitulé "Frauder tue")
+* l'équipe et plus largement le labo ne trouvent plus de financements
+* la réputation de Nature est entachée
+* le discrédit de la science croît chez le public
+
+==**Obj. 8**==
+
+Exemple emprunté à la conférence de Nicolas Chevassus-au-Louis du 20 novembre 2018 à Rennes 2
+montre le marché de l'autorat fantôme (Ghost authorship) en Chine (capture d'écran des résultats d'une requête faite sur Baidu : "publish SCI paper"
+La source de N. Chevassus-au-Louis devait être apparemment celle-ci : http://sci-hub.tw/10.1126/science.342.6162.1035
+Quant au Mandarinat, sans jeu de mot avec ce qui précède, cela consiste à citer un ancien directeur de mémoire comme auteur par pure complaisance ou bien à renvoyer l'ascenseur à un collègue qui vous a fait la même faveur afin d'accroître de manière artificielle le nombre de vos publications respectives
+
+==**Obj. 9**==
+Saucissonnage ou _salami slicing_ : autre manoeuvre pour accroître artificiellement le nombre de publications : faire d'un bon article 3 ou 4 articles médiocres en les délayant. Chercheurs peu scrupuleux à la recherche de la plus petite quantité publiable. Cette maladie pourrait se guérir en changeant le système avec des crédits à la publication (obligation de ne pas publier plus d'un ou deux articles par an : principe de la slow science)
+
+==**Obj. 10**==
+Quizz Klaxoon (équivalent au diaporama joint à ces notes)
+
+==**Obj. 11**==
+D'après Hervé Maisonneuve sur son blog https://www.redactionmedicale.fr/2017/03/des-sites-internet-au-service-des-plagiares-en-paraphrasant-les-textes-%C3%A0-copier.html
+Rappeler que savoir paraphraser correctement est une compétences qu'il est nécessaire d'acquérir à l'université alors qu'elle est très peu enseignée (cf. mon atelier pour les doctorants : https://guides-formadoct.u-bretagneloire.fr/atelier_plagiat/paraphrase ). Quand on paraphrase, il faut toujours indiquer la source, sinon on commet un plagiat. Modifier le vocabulaire (sauf les termes scientifiques qui font autorité, modifier la structure des phrases). Dans les sciences exactes, il est plus habituel de paraphraser que de citer textuellement, l'inverse a lieu dans les disciplines plus littéraires. cela dépend de l'originalité de l'expression de la source.
+
+==**Obj. 12**==
+Rennes 1 en 2019 : Nathalie Théret, également responsable d'une école doctorale
+Rennes 2 en 2019 : Alexandre Serres, ancien responsable de l'URFIST de Rennes
+Liste nationale des référents : https://www.hceres.fr/fr/liste-des-signataires-des-chartes-et-des-referents-integrite-scientifique
+Ces gens se parlent, notamment dans le cadre du réseau RESINT. Le réseau permet de régler des problèmes qui surviennent entre des chercheurs d'universités différentes. Le rôle du référent d'intégrité scientifique est de permettre le dépôt de plainte, notamment quand le plaignant est en situation précaire (par ex. un doctorant face à un professeur qui a des responsabilités au sein d'une CNU) et en protégeant son anonymat pendant une bonne partie de l'instruction. 
+
+==**Obj. 13**==
+A Rennes 1 : Compilatio (https://www.compilatio.net/) ouvert aux seuls personnels (dont doctorants ayant des contrats de vacataires)
+solution actuellement prise en charge par la bibliothèque. Question : faut-il ouvrir cette application aux étudiants pour leur éviter le plagiat par négligence au risque de leur permet d'affiner leurs plagiats volontaires ? Peu d'établissements pour l'instant ont fait ce choix.
+
+==**Obj. 14**==
+voir ce qui est indiqué dans obj. 3 car le problème est connexe à la republication sans avertissement. Personne d'autre n'est lésé mais le procédé est tout de même répréhensible, pas en terme de droit mais en terme d'intégrité scientifique. Le lecteur qui croit lire une étude originale est floué. Le chercheur responsable de cette méconduite peut être accusé de vouloir augmenter artificiellement son taux de publications en faisant des resucées de ses publications antérieures.
+La thèse sur articles -qui n'est acceptée que dans un petit nombre de disciplines- relève davantage de la republication : non seulement les co-auteurs et le directeur de la soutenance doivent être tenus au courant et donner leur assentiment mais en plus il faut recueillir l'accord des éditeurs de la première publication. Si l'un de ces accords manquent, il faut se citer abondamment (en faisant des citations correctes) mais la republication ne sera pas possible.
+
+==**Obj. 15**==
+Extrait d'un diagnostic de Compilatio. 
+Le logiciel de _détection de similitudes_ (et non pas de plagiats) donne un taux global de similitudes, puis indique les 10 sources les plus probablement utilisées. Compilatio donne la possibilité d'exclure le texte entre guillemets pour accéder plus facilement aux véritables emprunts litigieux. L'intérêt de ce type de logiciel est de pouvoir croiser le texte soumis avec d'autres textes faisant partie du web visible (liens icone bleue), du web invisible (bases de données commerciales) ou bien des textes déjà soumis à Compilatio par un autre membre de la communauté des abonnés (liens icone rouge).
+
+==**Obj. 16**==
+L'oubli de la source est cause de plagiats (cryptomnésie : https://fr.wikipedia.org/wiki/Cryptomn%C3%A9sie). C'est la source du plagiat par négligence. Le _sloppy note taking_ peut mener à la _sloppy science_
+Pour se garder contre ce danger, on doit dès le départ de sa recherche utiliser un logiciel de gestion de références. A Rennes 1, nous faisons la promotion du logiciel libre Zotero qui couplé avec le plugin Zotfile permet de convertir le texte surligné d'un PDF en notes de statut différent des notes générées par l'ajout de commentaires à ce même PDF. Zotero matérialise bien la différence entre le texte que j'ai surligné (et emprunté) et le texte que j'ai ajouté en tant que commentaire et qui est ma création.
+
+
+Références principales : 
+
+1.Hvistendahl, M. China’s Publication Bazaar. Science 342, 1035–1039 (2013).
+
+2.Maisonneuve, H. Des outils au service des plagiaires pour paraphraser les textes à copier. Rédaction Médicale et Scientifique (2017).
+
+3.Collins, N. Des publications sous pression. Courrier international 40 (2016).
+
+4.Ali, A. & Cheng, K. M. Early Egg Production in Genetically Blind (rc/rc) Chickens in Comparison with Sighted (Rc+/rc) Controls. Poult Sci 64, 789–794 (1985).
+
+5.Serres, A. Introduction - Le plagiat - FORMADOCT at Université de Bretagne Loire. Formadoct (2017). Available at: https://guides-formadoct.u-bretagneloire.fr/plagiat. (Accessed: 3rd April 2019)
+
+6.Chevassus-au-Louis, N. Malscience: de la fraude dans les labos. (Éditions du Seuil, 2016).
+
+7.Remy, D. MOOCER M1S1A - Introduction | Séquence 1 - Pourquoi les sciences impliquent une réflexivité éthique ? | Contenu du cours 91001 | FUN.
+
+8.Marcus, A. A. When a paper duplicates one in another language, how can editors spot it? Retraction Watch (2019).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
